@@ -2,7 +2,7 @@
   "name": "@micro-js/is-object",
   "description": "Check if plain object.",
   "repository": "git://github.com/micro-js/is-object.git",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "license": "MIT",
   "main": "lib/index.js",
   "scripts": {
