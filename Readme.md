@@ -17,15 +17,16 @@ Check if plain object.
 ```js
 var isObject = require('@micro-js/is-object')
 
+isObject({}) // true
 ```
 
 ## API
 
-### isObject(arg)
+### isObject(obj)
 
-- `arg` -
+- `obj` - object to test
 
-**Returns:**
+**Returns:** boolean
 
 ## License
 
