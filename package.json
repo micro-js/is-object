@@ -1,5 +1,5 @@
 {
-  "name": "@micro-js/is-object",
+  "name": "@f/is-object",
   "description": "Check if plain object.",
   "repository": "git://github.com/micro-js/is-object.git",
   "version": "1.0.0",

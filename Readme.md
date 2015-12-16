@@ -10,12 +10,12 @@ Check if plain object.
 
 ## Installation
 
-    $ npm install @micro-js/is-object
+    $ npm install @f/is-object
 
 ## Usage
 
 ```js
-var isObject = require('@micro-js/is-object')
+var isObject = require('@f/is-object')
 
 isObject({}) // true
 ```
@@ -38,5 +38,5 @@ MIT
 [git-url]: https://github.com/micro-js/is-object
 [standard-image]: https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat
 [standard-url]: https://github.com/feross/standard
-[npm-image]: https://img.shields.io/npm/v/@micro-js/is-object.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/@micro-js/is-object
+[npm-image]: https://img.shields.io/npm/v/@f/is-object.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/@f/is-object
