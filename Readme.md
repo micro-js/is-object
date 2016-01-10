@@ -18,6 +18,8 @@ Check if plain object.
 var isObject = require('@f/is-object')
 
 isObject({}) // true
+isObject(function () {}) // false
+isObject([]) // false
 ```
 
 ## API
@@ -26,7 +28,7 @@ isObject({}) // true
 
 - `obj` - object to test
 
-**Returns:** boolean
+**Returns:** Boolean
 
 ## License
 
